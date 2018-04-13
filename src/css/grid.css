@@ -72,8 +72,8 @@ padding-top: 10px;
   grid-area:l;
   display:grid;
   align-content: center;
-  /* justify-content: center; */
-  justify-content: left;
+  justify-content: center;
+  /* justify-content: left; */
 }
   
 aside{
