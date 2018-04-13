@@ -115,6 +115,10 @@ footer{
   font-family:  'Avenir'
     
 }
+ 
+footer .buttons{
+  margin:20px;
+}
 
 footer .message{
   display:flex;
