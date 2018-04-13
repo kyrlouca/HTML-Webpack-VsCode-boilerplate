@@ -1,6 +1,8 @@
 # webpack-boilerplate
 
 A starting point for static projects using Webpack.
+includes a simple webpack.config.js
+developed using Vscode which supports hot debugging by attaching to the wepback-development-server  (sourcemaps)
 
 ## Usage
 
